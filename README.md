@@ -5,6 +5,7 @@
 > * 姓名:陳淑鈃
 > * 系級:科技系2年級
 ## 📝課程筆記區
-[練習](http://localhost:8888/notebooks/Desktop/PL/Python_01.ipynb)
+[練習1](http://localhost:8888/notebooks/Desktop/PL/Python_01.ipynb)
+[15/9練習題](http://localhost:8888/notebooks/Desktop/PL/15.9exercise1.ipynb)
 ## 📔作業連結區
 ## 🤯專題連結區

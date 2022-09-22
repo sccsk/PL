@@ -5,7 +5,7 @@
 > * 姓名:陳淑鈃
 > * 系級:科技系2年級
 ## 🙋‍♀️課程筆記區
->[運算子](https://pydoing.blogspot.com/2011/01/python-operator.html)
+
 
 ## 📝練習區
 >[練習1](http://localhost:8888/notebooks/Desktop/PL/Python_01.ipynb)

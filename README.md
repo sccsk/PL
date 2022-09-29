@@ -16,4 +16,5 @@
 
 >[29/9練習題](http://localhost:8888/notebooks/Desktop/PL/29.9%20exercise.ipynb)
 ## 📔作業連結區
+>[未完成作業1](http://localhost:8888/notebooks/Desktop/PL/homework1-Copy1.ipynb)
 ## 🤯專題連結區

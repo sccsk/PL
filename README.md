@@ -13,5 +13,7 @@
 
 >[15/9練習題](http://localhost:8888/notebooks/Desktop/PL/15.9exercise1.ipynb)
 
+
+>[29/9練習題](http://localhost:8888/notebooks/Desktop/PL/29.9%20exercise.ipynb)
 ## 📔作業連結區
 ## 🤯專題連結區

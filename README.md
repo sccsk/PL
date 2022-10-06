@@ -17,7 +17,7 @@
 
 
 ## 📔作業連結區
->[作業1](https://github.com/sccsk/PL/blob/main/HW1.ipynb)
+>[作業1](https://github.com/sccsk/PL/tree/main/%E4%BD%9C%E6%A5%AD1)
 
 
 

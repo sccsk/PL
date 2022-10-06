@@ -8,13 +8,13 @@
 
 
 ## 📝練習區
->[練習1](http://localhost:8888/notebooks/Desktop/PL/Python_01.ipynb)
+>[練習1](https://github.com/sccsk/PL/blob/main/Python_01.ipynb)
 
 
 >[15/9練習題](https://github.com/sccsk/PL/blob/main/15.9exercise1.ipynb)
 
 
->[29/9練習題](http://localhost:8888/notebooks/Desktop/PL/29.9%20exercise.ipynb)
+>[29/9練習題](https://github.com/sccsk/PL/blob/main/29.9%20exercise.ipynb)
 
 
 

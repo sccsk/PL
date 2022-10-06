@@ -19,7 +19,7 @@
 
 
 ## 📔作業連結區
->[作業1](http://localhost:8888/notebooks/Desktop/PL/HW1.ipynb)
+>[作業1](https://github.com/sccsk/PL/blob/main/HW1.ipynb)
 
 
 

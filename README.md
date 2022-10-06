@@ -5,6 +5,7 @@
 > * 姓名:陳淑鈃
 > * 系級:科技系2年級
 ## 🙋‍♀️課程筆記區
+>[Python如何處理JSON格式](https://pydoing.blogspot.com/2011/01/python-operator.html](https://ithelp.ithome.com.tw/articles/10220160)
 
 
 ## 📝練習區

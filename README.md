@@ -20,5 +20,6 @@
 >[作業1](https://github.com/sccsk/PL/tree/main/%E4%BD%9C%E6%A5%AD1)
 
 
+>[作業2](https://github.com/sccsk/PL/blob/main/HW2.ipynb)
 
 ## 🤯專題連結區

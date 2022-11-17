@@ -24,4 +24,6 @@
 
 
 >[作業3](https://github.com/sccsk/PL/tree/main/%E4%BD%9C%E6%A5%AD3)
+
+>[作業4程式碼](https://github.com/sccsk/PL/blob/main/HW4.ipynb)|[medium](https://medium.com/@csk060203/%E6%99%82%E4%BB%A3%E9%9D%A9%E5%91%BD-%E5%8F%8D%E9%80%81%E4%B8%AD%E7%B4%80%E9%8C%84%E7%89%87-f4ed17a28ad)
 ## 🤯專題連結區

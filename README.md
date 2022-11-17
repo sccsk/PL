@@ -7,6 +7,7 @@
 ## 🙋‍♀️課程筆記區
 >[Python如何處理JSON格式](https://pydoing.blogspot.com/2011/01/python-operator.html](https://ithelp.ithome.com.tw/articles/10220160)
 
+>[Text Mining & 網路爬蟲](https://jamleecute.web.app/%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2-web-crawler-text-mining-python/)
 
 ## 📝練習區
 >[15/9練習題](https://github.com/sccsk/PL/blob/main/15.9exercise1.ipynb)
